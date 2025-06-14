@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan Kalindu</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
-
+---
 
 - 🔭 I’m currently working on **OOP with Java**
 
