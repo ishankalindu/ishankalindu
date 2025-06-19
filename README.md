@@ -76,8 +76,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFD700&vCenter=true&width=500&lines=Highlighted+Projects+%F0%9F%94%A5" alt="Projects Typing Animation" />
 </div>
 
-- [Job--Management-System](https://github.com/Tharaka1103/Job--Management-System) 
-- [Simple-Fitness-System ](https://github.com/Tharaka1103/Simple-Fitness-System ) 
+
 
 ---
 
