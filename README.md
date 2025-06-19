@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ishan Kalindu</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&width=450&lines=Hi+there!+I'm+Tharaka+Dharmasiri;Web+Developer+%7C+Learning+Enthusiast;Full+Stack+MERN+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG Animation" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ff5722&size=24&duration=2000&pause=500&vCenter=true&width=500&lines=Passionate+About+Technology;Building+Solutions+That+Matter;Exploring+New+Technologies+Every+Day" alt="Subtext Typing Animation" />
+</div>
+
 
 - 🔭 I’m currently working on **OOP with Java**
 
