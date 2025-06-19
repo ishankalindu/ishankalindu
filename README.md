@@ -100,8 +100,8 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharaka1103&theme=radical" alt="Profile Summary Card" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharaka1103&layout=compact&theme=radical" alt="Most Used Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishankalindu&theme=radical" alt="Profile Summary Card" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishankalindu&layout=compact&theme=radical" alt="Most Used Languages" />
   </div>
 </div>
 
